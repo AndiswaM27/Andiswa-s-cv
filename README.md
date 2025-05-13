@@ -1,1 +1,3 @@
-my CV coded with html and css
+
+
+https://andiswam27.github.io/Andiswa-s-cv/
